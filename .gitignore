@@ -1,2 +1,5 @@
+#Node modules
 node_modules
-output.txt
+
+#VSCode files
+.vscode
